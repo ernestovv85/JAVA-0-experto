@@ -1,4 +1,4 @@
-package entrada_teclado.scanner;
+package basic.entrada_teclado.scanner;
 
 import java.util.Scanner;
 public class ScannerClass {

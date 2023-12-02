@@ -1,4 +1,4 @@
-package entrada_teclado.jOptionPane;
+package basic.entrada_teclado.jOptionPane;
 
 import javax.swing.*;
 public class InputDialog {
