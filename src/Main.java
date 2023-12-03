@@ -19,7 +19,8 @@
 //import static basic.exercises.Exercise13.exercise13;
 //import static basic.exercises.Exercise14.exercise14;
 //import static basic.exercises.Exercise15.exercise15;
-import static basic.exercises.Exercise16.exercise16;
+//import static basic.exercises.Exercise16.exercise16;
+import static basic.exercises.Exercise17.exercise17;
 
 public class Main {
     public static void main(String[] args) {
@@ -44,6 +45,7 @@ public class Main {
 //        exercise13();
 //        exercise14();
 //        exercise15();
-        exercise16();
+//        exercise16();
+        exercise17();
     }
 }
