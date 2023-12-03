@@ -15,7 +15,7 @@ public class Exercise14 {
         do {
             confirmPassword = in.nextLine();
             if (confirmPassword.equals(password)){
-                System.out.println("Enhorabuena");
+                System.out.println("Enhorabuena!");
                 break;
             }else {
                 tries++;
