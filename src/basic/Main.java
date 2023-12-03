@@ -1,4 +1,4 @@
-//import static basic.entrada_teclado.jOptionPane.InputDialog.inputDialog;
+package basic;//import static basic.entrada_teclado.jOptionPane.InputDialog.inputDialog;
 //import static basic.entrada_teclado.jOptionPane.ConfirmDialog.confirmDialog;
 //import static basic.entrada_teclado.jOptionPane.MessageDialog.messageDialog;
 //import static basic.entrada_teclado.jOptionPane.OptionDialog.optionDialog;
